@@ -1,0 +1,1 @@
+Série de exercicios em phyton feitos nas aulas do curso do canal 'Curso em Video'

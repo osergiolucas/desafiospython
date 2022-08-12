@@ -1,3 +1,3 @@
-v=float(input('Quantos reais você tem?: '))
+v=float(input('Quantos R$ você tem?: '))
 d=v/5.22
-print('Você poder comprar: {:.2f} dólares'.format(d))
+print('Com R${:.2f} você poder comprar: US${:.2f}'.format(v,d))

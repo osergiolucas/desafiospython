@@ -1,4 +1,7 @@
-import math
+#from math import trunc
+
+#num = float(input('Digite um número: '))
+#print('O numero {} tem a parte inteira {}'.format(num, trunc(num)))
+
 num = float(input('Digite um número: '))
-r = (math.floor(num))
-print('O valor inteiro é: {}'.format(r))
+print('O numero {} tem a parte inteira {}'.format(num, int(num)))
